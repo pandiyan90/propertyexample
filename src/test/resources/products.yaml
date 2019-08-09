@@ -1,0 +1,5 @@
+test-service:
+  products:
+    "1": "alpha"
+    "2": "bravo"
+    "3": "charlie"
